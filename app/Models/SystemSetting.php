@@ -10,3 +10,4 @@ class SystemSetting extends Model
     protected $guarded = [];
 }
 
+
