@@ -14,3 +14,4 @@ class FuelLog extends Model
         return $this->belongsTo(Truck::class);
     }
 }
+
