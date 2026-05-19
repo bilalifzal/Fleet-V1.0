@@ -14,4 +14,5 @@ class MaintenanceAlert extends Model
     {
         return $this->belongsTo(Truck::class);
     }
+    
 }
